@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Application;Graphics
+Comment[en_US]=Run Autodesk Mudbox 2023 (64-bit)
+Comment=Run Autodesk Mudbox 2023 (64-bit)
+Encoding=UTF-8
+Exec=/usr/autodesk/mudbox2023/mudbox.sh
+GenericName[en_US]=
+GenericName=
+Icon=Mudbox2023
+MimeType=
+Name[en_US]=Autodesk Mudbox 2023 (64-bit)
+Name=Autodesk Mudbox 2023 (64-bit)
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
